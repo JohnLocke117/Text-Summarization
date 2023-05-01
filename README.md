@@ -3,10 +3,10 @@ Gyan Summarisation Recs
 
 Repository for Recruitment task for IRIS Labs Gyan Summarization Task.
 
-<h1>Introduction</h1>
+<h1>Introduction:</h1>
 Here is the code and Output files for the Recruitment task for IRIS Labs. Text Summarisation has been performed on the given CNN/Daily Mail dataset.
 
-<h1>Methodoloy</h1>
+<h1>Methodoloy:</h1>
 Here, I have Implemented a text summarizer model via two Routes, the first one performing Abstract Summarization using the Pegasus Model, while the second one performs Extractive Summarization using the Spacy Library for NLP in Python.
 
 <h3>Method 1: Abstractive Text Summarization via PEGASUS</h3>

@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">IRIS-Labs</h1>
-<p style="text-align: center;">Gyan Summarisation Recs</p>
-
+<h1 align="center">IRIS-Labs</h1>
+<h3 align="center">Varun Arya</h3>
+<br/>
 Repository for Recruitment task for IRIS Labs Gyan Summarization Task.
 
 <h1>Introduction:</h1>

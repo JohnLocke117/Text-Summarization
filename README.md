@@ -1,7 +1,7 @@
 <h1 align="center">IRIS-Labs</h1>
 <h3 align="center">Varun Arya</h3>
 <br/>
-Repository for Recruitment task for IRIS Labs Gyan Summarization Task.
+<p align="center">Repository for Recruitment task for IRIS Labs Gyan Summarization Task.</p>
 
 <h1>Introduction:</h1>
 Here is the code and Output files for the Recruitment task for IRIS Labs. Text Summarisation has been performed on the given CNN/Daily Mail dataset.

@@ -12,7 +12,7 @@ Here, I have Implemented a text summarizer model via two Routes, the first one p
 Pegasus is a pre-trained Text Summarization model which has been used here for performing the task. The model has been imported from HuggingFace. Pegasus performs abstractive text summarization, which means that it creates a new summary for a given block of text input, which is uniquely created rather than taking excrepts from the input itself. <br />
 The implementation is present in the Pegasus Directory.
 
-<h3>Method 2: SpaCy</h3>
+<h3>Method 2: Extractive Text Summarization via SpaCy</h3>
 SpaCy is an open-source advanced natural language processing library. It has been used here to perform extractive summarization, which means this moodel retains only the important parts of a text block and discards the rest. <br />
 The implementation is present in the Spacy directory.
 

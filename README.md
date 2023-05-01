@@ -1,5 +1,5 @@
-# IRIS-Labs
-Gyan Summarisation Recs
+<h1 style="text-align: center;">IRIS-Labs</h1>
+<p style="text-align: center;">Gyan Summarisation Recs</p>
 
 Repository for Recruitment task for IRIS Labs Gyan Summarization Task.
 

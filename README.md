@@ -1,12 +1,7 @@
-<h1 align="center">IRIS-Labs</h1>
-<h2 align="center">Varun Arya</h2>
-<p align="center">Repository for Recruitment task for IRIS Labs Gyan Summarization Task.</p>
-
-<h1>Introduction:</h1>
-Here is the code and Output files for the Recruitment task for IRIS Labs. Text Summarisation has been performed on the given CNN/Daily Mail dataset.
+<h1 align="center">Text Summarization</h1>
 
 <h1>Methodoloy:</h1>
-Here, I have Implemented a text summarizer model via two Routes, the first one performing Abstract Summarization using the Pegasus Model, while the second one performs Extractive Summarization using the Spacy Library for NLP in Python.
+A text summarizer model has been implemented via two Routes, the first one performing Abstract Summarization using the Pegasus Model, while the second one performs Extractive Summarization using the Spacy Library for NLP in Python.
 
 <h3>Method 1: Abstractive Text Summarization via PEGASUS</h3>
 Pegasus is a pre-trained Text Summarization model which has been used here for performing the task. The model has been imported from HuggingFace. Pegasus performs abstractive text summarization, which means that it creates a new summary for a given block of text input, which is uniquely created rather than taking excrepts from the input itself. <br />
@@ -27,8 +22,5 @@ Also, a web app also has been created for the Spacy model, where you can Input y
 
 To run the Web App, make sure flask is installed in your System. Then, open a Terminal in the Spacy folder and execute the "app.py" file.
 Go-To http://localhost:5000/ on your system to access the application. <br />
-I will attach the Output of the app below.
 
 ![Output2](https://user-images.githubusercontent.com/99555479/235488905-c3ffb438-0ceb-4893-abed-478cff499d40.jpg)
-
-
